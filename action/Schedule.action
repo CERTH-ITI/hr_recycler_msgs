@@ -1,0 +1,12 @@
+# Goal
+# Serialized JSON of scheduling context
+Header header
+string scheduleContext
+---
+# Result
+# Serialized JSON of schedule times and assignments
+# Scheduling error (if exists)
+Header header
+string scheduleResult
+string scheduleError
+---
