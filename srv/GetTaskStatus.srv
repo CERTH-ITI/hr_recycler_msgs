@@ -1,4 +1,3 @@
-string process_id
 string task_instance_id
 ---
-TaskStatus status
+TaskStatus task_status
