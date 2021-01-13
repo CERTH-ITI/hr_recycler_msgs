@@ -1,0 +1,14 @@
+Header header
+
+# Full tray
+
+# Inform that a tray is full at a workstation and
+# request pickup by an AGV
+
+string workstation_id
+string tray_id
+string component_type
+
+---
+
+bool ack

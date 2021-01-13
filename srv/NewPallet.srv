@@ -1,0 +1,15 @@
+Header header
+
+# New pallet
+
+# Notify of a new pallet at the classification area
+# and request pickup by a pallet truck
+
+string area_id
+string pallet_id
+string device_type
+uint16 device_count
+
+---
+
+bool ack

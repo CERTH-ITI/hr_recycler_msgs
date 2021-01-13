@@ -1,0 +1,13 @@
+Header header
+
+# Request pallet
+
+# Request delivery of a full pallet to the workstation
+
+string workstation_id
+string device_type
+
+---
+
+string pallet_id
+uint16 device_count
